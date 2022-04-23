@@ -15,6 +15,10 @@ namespace ShopHaXinh.ViewModels.Catalog.Products
         public string Name { set; get; }
         public string Description { set; get; }
         public string Details { set; get; }
+        public string CreatedBy { get; set; }
+        public string Size { get; set; }
+        public string Color { get; set; }
+        public string Tag { get; set; }
         public string ThumbnailImage { get; set; }
         public string ProductImage { get; set; }
         public int Rating { get; set; }
