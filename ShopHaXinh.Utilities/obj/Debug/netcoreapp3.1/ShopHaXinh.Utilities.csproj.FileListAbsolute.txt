@@ -8,3 +8,13 @@ D:\Study\ShopHaXinh\ShopHaXinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\Shop
 D:\Study\ShopHaXinh\ShopHaXinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.csproj.CoreCompileInputs.cache
 D:\Study\ShopHaXinh\ShopHaXinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.dll
 D:\Study\ShopHaXinh\ShopHaXinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.pdb
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\bin\Debug\netcoreapp3.1\ShopHaXinh.Utilities.deps.json
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\bin\Debug\netcoreapp3.1\ShopHaXinh.Utilities.dll
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\bin\Debug\netcoreapp3.1\ShopHaXinh.Utilities.pdb
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.csproj.AssemblyReference.cache
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.AssemblyInfoInputs.cache
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.AssemblyInfo.cs
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.csproj.CoreCompileInputs.cache
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.dll
+D:\Study\HaXinhShop\shopHaxinh\ShopHaXinh.Utilities\obj\Debug\netcoreapp3.1\ShopHaXinh.Utilities.pdb
