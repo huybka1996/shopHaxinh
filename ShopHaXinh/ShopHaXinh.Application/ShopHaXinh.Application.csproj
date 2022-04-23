@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="8.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ShopHaXinh.Data\ShopHaXinh.Data.csproj" />
+    <ProjectReference Include="..\ShopHaXinh.Utilities\ShopHaXinh.Utilities.csproj" />
+    <ProjectReference Include="..\ShopHaXinh.ViewModels\ShopHaXinh.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>
