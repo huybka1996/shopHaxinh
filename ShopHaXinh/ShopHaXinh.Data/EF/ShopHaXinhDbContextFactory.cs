@@ -17,7 +17,7 @@ namespace ShopHaXinh.Data.EF
                 .AddJsonFile("appsettings.json")
                 .Build();
 
-            var connectionString = configuration.GetConnectionString("eShopSolutionDb"); 
+            var connectionString = configuration.GetConnectionString("ShopHaXinhDb"); 
 
             var optionsBuilder = new DbContextOptionsBuilder<ShopHaXinhDbContext>();
             optionsBuilder.UseSqlServer(connectionString);

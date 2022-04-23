@@ -256,7 +256,11 @@ namespace ShopHaXinh.Application.Catalog.Products
                 Stock = product.Stock,
                 ThumbnailImage = product.Thumbnail != null ? product.Thumbnail : "no-image.jpg",
                 ProductImage = product.ProductImage != null ? product.ProductImage : "no-image.jpg",
-                Reviews = listOfReviews
+                Reviews = listOfReviews,
+                Tag = product.Tag,
+                Size = product.Size,
+                Color = product.Color,
+                CreatedBy = product.CreatedBy
             };
             return productViewModel;
         }
